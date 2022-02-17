@@ -7,5 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "amqplib": "^0.8.0"
+  },
+  "scripts": {
+    "publisher": "node publisher.js",
+    "consumer": "node consumer.js"
   }
 }
