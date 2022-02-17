@@ -1,7 +1,7 @@
 {
   "name": "rabbitmq-node",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "consumer.js",
   "repository": "git@github.com:alireza-es/rabbitmq-node.git",
   "author": "Alireza <alireza.es@gmail.com>",
   "license": "MIT",
